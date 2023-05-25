@@ -15,7 +15,7 @@ public class JesusGITEval2 {
      */
     public static void main(String[] args) {
         System.out.println("Hola");
-        System.out.println("Editando linea despues del primer commit");
+        System.out.println("Linea cambiada");
         System.out.println("Cambio para github por jesus lopez perez");
     }
     
