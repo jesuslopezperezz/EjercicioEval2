@@ -14,10 +14,8 @@ public class JesusGITEval2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hola");
-        System.out.println("Linea cambiada");
-        System.out.println("Cambio para github por jesus lopez perez");
-        System.out.println("Actualizando Github nuevo update");
+        System.out.println("Apartado numero 10 codigo actualizado en github");
+
     }
     
 }
